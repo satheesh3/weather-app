@@ -1,5 +1,5 @@
-# weather_app_tutorial
-Weather application code base for Medium tutorial found here: tiny.cc/a0h1ty
+# weather_app
+Weather application 
 
 
 To install:
